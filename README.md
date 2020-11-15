@@ -5,6 +5,7 @@ Not affiliated with ACM or LAK.
 
 Relevance of files to paper:
 - collocation.ipynb: Section 4.6 on collocations
+- preprocess.py: Section 4.1 on preprocessing
 - In /sentiment_analysis/:
   - resource_analysis.ipynb: Section 5.2.4 on student resource use
   - sentiment_analysis_conclusions.ipynb: Section 5.2.2
